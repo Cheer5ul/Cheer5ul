@@ -8,7 +8,7 @@ Currently finishing upper secondary school, starting software engineering studie
 - 🗣️ Finnish · English · Russian · Ukrainian
 - 🔭 Currently building **music-time-manager** (task manager for small teams)
 - 📌 Focused on backend: ASP.NET Core, EF Core, SQL, Clean Architecture
-- 📫 [Email](mailto:oxygeny116@gmail.com)
+- 📫 [Email] oxygeny116@gmail.com
 
 ---
 
@@ -40,4 +40,4 @@ RESTful sneaker store API — ASP.NET Core 10, catalog/sizes/stock management.
 
 ---
 
-⭐️ Open to junior/trainee backend roles (C# / .NET)
+⭐️ Open to Junior Software Developer / Software Developer Trainee roles
