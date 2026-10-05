@@ -3,16 +3,18 @@
 **Junior Software Developer | C# / .NET / ASP.NET Core**
 
 I build backend systems with clean architecture, EF Core, and proper API design.
-Currently finishing upper secondary school, starting software engineering studies at university - using that time to ship real backend projects and get my first junior role.
+Currently finishing upper secondary school, starting software engineering studies at university - using that time to ship real backend projects and get my first hands-on experience.
 
 - 🗣️ Finnish · English · Russian · Ukrainian
-- 🔭 Currently building **music-time-manager** (task manager for small teams)
-- 📌 Focused on backend: ASP.NET Core, EF Core, SQL, Clean Architecture
+- 🔭 Maintaining and leveling up **music-time-manager**: a task manager for small teams
+- 📌 Focused on backend and eager to deepen into frontend
 - 📫 [Email] oxygeny116@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
+
+**Main:**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -22,8 +24,22 @@ Currently finishing upper secondary school, starting software engineering studie
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Working with:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Also familiar with:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
