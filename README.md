@@ -3,7 +3,7 @@
 **Junior Software Developer | C# / .NET / ASP.NET Core**
 
 I build backend systems with clean architecture, EF Core, and proper API design.
-Currently finishing upper secondary school, starting software engineering studies at university - using that time to ship real backend projects and get my first hands-on experience.
+Currently finishing upper secondary school, starting software engineering studies at university - using that time to ship real backend projects and get my first hands-on experience
 
 - 🗣️ Finnish · English · Russian · Ukrainian
 - 🔭 Maintaining and leveling up **music-time-manager**: a task manager for small teams
